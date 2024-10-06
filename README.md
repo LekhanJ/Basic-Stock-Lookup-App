@@ -18,7 +18,7 @@ To run this app, you'll need:
 <h2>Getting Started</h2>
 <h3>1. Clone the repository</h3>
 First, clone this repository to your local machine:<br>
-git clone https://github.com/yourusername/stock-app.git
+git clone https://github.com/LekhanJ/Basic-Stock-Lookup-App.git
 
 <h3>2. Get an API Key from RapidAPI</h3>
 <ul>
